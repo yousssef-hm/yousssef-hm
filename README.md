@@ -1,12 +1,22 @@
 <h1 align="center">👋 Youssef HMAMA</h1>
-<h3 align="center">💻 Full Stack Developer | Angular • Spring Boot • React</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Angular+%7C+Spring+Boot+%7C+React;UI%2FUX+Designer;Building+Modern+Digital+Experiences🚀" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge&logo=figma" />
+</p>
 
 <p align="center">
   🎓 DUT Génie Informatique – EST Oujda <br>
   🌍 Maroc <br>
-  🚀 Passionné par le développement Web & Mobile
+  💡 Développeur & UI/UX Designer  <br>
+  ⚡ Passionné par le développement Full Stack & design 
 </p>
-
 ---
 
 ## 🚀 À propos de moi
