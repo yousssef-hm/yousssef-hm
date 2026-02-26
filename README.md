@@ -1,7 +1,7 @@
 <h1 align="center">👋 Youssef HMAMA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Angular+%7C+Spring+Boot+%7C+React;UI%2FUX+Designer;Building+Modern+Digital+Experiences🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hello%2C+I'm+Youssef👋;Full+Stack+Developer;UI%2FUX+Designer;Crafting+Modern+Digital+Experiences🚀" />
 </p>
 <p align="center">
 🚀 Build • Design • Innovate
